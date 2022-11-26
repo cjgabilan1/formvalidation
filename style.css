@@ -1,0 +1,9 @@
+
+.img1{
+    background-image: url("minion.jpeg");
+  height: 80%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+}
